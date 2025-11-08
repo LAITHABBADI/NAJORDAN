@@ -1,0 +1,33 @@
+/* Fix for numbers appearing reflected/mirrored in RTL context */
+
+/* Force all telephone links and numbers to display left-to-right */
+a[href^="tel:"],
+.phone-number,
+.number {
+    direction: ltr;
+    unicode-bidi: embed;
+    display: inline-block;
+}
+
+/* Ensure all numeric content displays correctly in RTL pages */
+[dir="rtl"] a[href^="tel:"],
+[dir="rtl"] .phone-number,
+[dir="rtl"] .number {
+    direction: ltr !important;
+    unicode-bidi: embed;
+}
+
+/* Additional fix for any element containing primarily numbers */
+.ltr-numbers {
+    direction: ltr;
+    unicode-bidi: embed;
+    display: inline-block;
+}
+
+/* Prevent reflection for structured data and metadata */
+time,
+.date,
+.time {
+    direction: ltr;
+    unicode-bidi: embed;
+}
