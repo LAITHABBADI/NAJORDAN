@@ -6,7 +6,7 @@
     <!-- Homepage (Arabic) -->
     <url>
         <loc>https://www.najordan.org/</loc>
-        <lastmod>2025-01-15</lastmod>
+        <lastmod>2026-04-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
@@ -14,7 +14,7 @@
     <!-- Homepage (English) -->
     <url>
         <loc>https://www.najordan.org/index-en.html</loc>
-        <lastmod>2025-01-15</lastmod>
+        <lastmod>2026-04-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
@@ -22,7 +22,7 @@
     <!-- Online Meetings (Arabic) -->
     <url>
         <loc>https://www.najordan.org/pages/onlinemeetings.html</loc>
-        <lastmod>2025-01-15</lastmod>
+        <lastmod>2026-04-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
@@ -30,7 +30,7 @@
     <!-- Online Meetings (English) -->
     <url>
         <loc>https://www.najordan.org/pages/onlinemeetings-en.html</loc>
-        <lastmod>2025-01-15</lastmod>
+        <lastmod>2026-04-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
@@ -38,23 +38,23 @@
     <!-- Literature Page (Arabic) -->
     <url>
         <loc>https://www.najordan.org/pages/literature.html</loc>
-        <lastmod>2025-01-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
+        <lastmod>2026-04-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
     </url>
     
     <!-- Literature Page (English) -->
     <url>
         <loc>https://www.najordan.org/pages/literature-en.html</loc>
-        <lastmod>2025-01-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
+        <lastmod>2026-04-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
     </url>
     
     <!-- Meetings Page (Arabic) -->
     <url>
         <loc>https://www.najordan.org/pages/meetings.html</loc>
-        <lastmod>2025-01-15</lastmod>
+        <lastmod>2026-04-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
@@ -62,7 +62,7 @@
     <!-- Meetings Page (English) -->
     <url>
         <loc>https://www.najordan.org/pages/meetings-en.html</loc>
-        <lastmod>2025-01-15</lastmod>
+        <lastmod>2026-04-15</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
@@ -70,47 +70,47 @@
     <!-- Steps Page (Arabic) -->
     <url>
         <loc>https://www.najordan.org/pages/steps.html</loc>
-        <lastmod>2025-01-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
+        <lastmod>2026-04-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
     </url>
 
     <!-- Steps Page (English) -->
     <url>
         <loc>https://www.najordan.org/pages/steps-en.html</loc>
-        <lastmod>2025-01-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
+        <lastmod>2026-04-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
     </url>
     
     <!-- Blog Page (Arabic) -->
     <url>
         <loc>https://www.najordan.org/pages/مدونة.html</loc>
-        <lastmod>2025-01-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
+        <lastmod>2026-04-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
     </url>
     
     <!-- Addiction Blog Post (Arabic) -->
     <url>
         <loc>https://www.najordan.org/pages/blogs/الإدمان.html</loc>
-        <lastmod>2025-01-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
+        <lastmod>2026-04-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
     </url>
 
     <!-- Addiction Blog Post (English) -->
     <url>
         <loc>https://www.najordan.org/pages/blogs/addiction.html</loc>
-        <lastmod>2025-01-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
+        <lastmod>2026-04-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
     </url>
 
     <!-- Other Groups Page (Arabic) -->
     <url>
         <loc>https://www.najordan.org/pages/other-groups.html</loc>
-        <lastmod>2025-01-15</lastmod>
+        <lastmod>2026-04-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -118,7 +118,7 @@
     <!-- Other Groups Page (English) -->
     <url>
         <loc>https://www.najordan.org/pages/other-groups-en.html</loc>
-        <lastmod>2025-01-15</lastmod>
+        <lastmod>2026-04-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
